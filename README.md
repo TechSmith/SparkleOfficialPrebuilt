@@ -1,2 +1,0 @@
-# SparkleOfficialPrebuilt
-Prebuilt sparkle framework
